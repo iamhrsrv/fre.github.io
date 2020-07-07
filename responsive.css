@@ -1,0 +1,9 @@
+@media screen and (max-width:600px) {
+    #slides .slide{
+        width: 100%;
+    }
+    #slides .slide h2 { color:#fff; text-align:center; font-size: 32px; white-space:nowrap; font-family:Comic; }
+    #slides .slide .in { font-size:28px; text-align: left; display: inline-block; font-weight: 900; text-shadow:none; color:rgba(255,255,255,.8); line-height:1.2em; white-space:normal; font-family:"Comic Sans"; font-weight:100; margin:.1em 5.1em; width:75%; }
+    #slides .slide table { max-width: 600px;margin-left: 10px; border-collapse: collapse;table-layout: auto;}
+    #slides .slide table th{ font-size: 16px;}
+    #slides .slide p { font-size: 13px; font-weight: 900; text-shadow:none; color:rgba(255,255,255,.8); display:block; text-align:left; line-height:1.2em; white-space:normal; font-family:"Comic Sans"; font-weight:100; margin:.1em 5.1em; width:75%; }
